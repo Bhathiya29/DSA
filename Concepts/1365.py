@@ -13,4 +13,4 @@ class Solution:
         for i in nums:
             res.append(hash_map[i])
             
-            return res
+        return res
